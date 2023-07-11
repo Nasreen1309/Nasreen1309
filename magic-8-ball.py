@@ -3,7 +3,7 @@
 import random
 
 name = "Nasreen"
-question = "Will it be sunny tomorrow?"
+question = "Will it rain tomorrow?"
 
 random_number = random.randint(1, 10)
 print(random_number)
