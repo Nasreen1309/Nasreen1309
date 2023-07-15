@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nasreen1309
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any project that I can learn.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me via email (islamnasreen1@gmail.com).
 
 <!---
